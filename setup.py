@@ -36,7 +36,7 @@ setup(
         'nosetimer',
     ],
     install_requires=[
-        'nose',
+        'nose2',
     ],
     license='MIT',
     entry_points={
